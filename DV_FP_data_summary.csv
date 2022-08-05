@@ -1,0 +1,264 @@
+"Region, subregion, country or area *",Country code,Parent code,1950-1955 pop,2015-2020 pop
+Burundi,108,910,2 403,11 012
+Comoros,174,910,166,823
+Djibouti,262,910,65,951
+Eritrea,232,910,851,3 438
+Ethiopia,231,910,18 832,107 851
+Kenya,404,910,6 424,50 815
+Madagascar,450,910,4 260,25 937
+Malawi,454,910,3 075,17 920
+Mauritius,480,910,522,1 266
+Mayotte,175,910,17,256
+Mozambique,508,910,6 170,29 106
+Réunion,638,910,267,879
+Rwanda,646,910,2 316,12 150
+Seychelles,690,910,37,97
+Somalia,706,910,2 353,14 819
+South Sudan,728,910,2 529,10 948
+Uganda,800,910,5 451,41 963
+United Republic of Tanzania,834,910,8 061,55 541
+Zambia,894,910,2 436,17 116
+Zimbabwe,716,910,2 926,14 338
+Middle Africa,911,947,27 460,166 722
+Angola,24,911,4 727,30 341
+Cameroon,120,911,4 464,24 905
+Central African Republic,140,911,1 356,4 645
+Chad,148,911,2 591,15 257
+Congo,178,911,859,5 182
+Democratic Republic of the Congo,180,911,12 692,82 809
+Equatorial Guinea,226,911,233,1 286
+Gabon,266,911,478,2 090
+Sao Tome and Principe,678,911,59,209
+Southern Africa,913,947,16 221,65 268
+Botswana,72,913,434,2 233
+Eswatini,748,913,285,1 131
+Lesotho,426,913,729,2 100
+Namibia,516,913,535,2 427
+South Africa,710,913,14 237,57 377
+Western Africa,914,947,73 233,376 451
+Benin,204,914,2 268,11 339
+Burkina Faso,854,914,4 370,19 488
+Cabo Verde,132,914,189,541
+Côte d'Ivoire,384,914,2 768,24 775
+Gambia,270,914,314,2 249
+Ghana,288,914,5 285,29 452
+Guinea,324,914,3 097,12 259
+Guinea-Bissau,624,914,552,1 852
+Liberia,430,914,960,4 763
+Mali,466,914,4 813,18 817
+Mauritania,478,914,684,4 345
+Niger,562,914,2 717,22 059
+Nigeria,566,914,39 075,193 491
+Saint Helena,654,914,5,6
+Senegal,686,914,2 609,15 648
+Sierra Leone,694,914,2 089,7 572
+Togo,768,914,1 435,7 797
+NORTHERN AFRICA AND WESTERN ASIA,1833,1828,105 287,503 815
+Northern Africa,912,1833,51 248,235 045
+Algeria,12,912,9 201,41 800
+Egypt,818,912,21 503,97 413
+Libya,434,912,1 167,6 636
+Morocco,504,912,9 552,35 797
+Sudan,729,912,6 047,41 338
+Tunisia,788,912,3 761,11 499
+Western Sahara,732,912,17,561
+Western Asia,922,1833,54 038,268 770
+Armenia,51,922,1 425,2 947
+Azerbaijan,31,922,3 070,9 890
+Bahrain,48,922,121,1 534
+Cyprus,196,922,507,1 184
+Georgia,268,922,3 593,4 006
+Iraq,368,922,6 052,37 950
+Israel,376,922,1 435,8 315
+Jordan,400,922,570,9 813
+Kuwait,414,922,163,4 077
+Lebanon,422,922,1 400,6 768
+Oman,512,922,470,4 721
+Qatar,634,922,30,2 740
+Saudi Arabia,682,922,3 288,33 341
+State of Palestine,275,922,941,4 810
+Syrian Arab Republic,760,922,3 598,17 346
+Turkey,792,922,22 524,81 597
+United Arab Emirates,784,922,71,9 567
+Yemen,887,922,4 779,28 165
+CENTRAL AND SOUTHERN ASIA,921,1828,528 911,1 955 779
+Central Asia,5500,921,18 441,71 437
+Kazakhstan,398,5500,7 075,18 188
+Kyrgyzstan,417,5500,1 799,6 245
+Tajikistan,762,5500,1 637,8 993
+Turkmenistan,795,5500,1 263,5 802
+Uzbekistan,860,5500,6 667,32 210
+Southern Asia,5501,921,510 470,1 884 342
+Afghanistan,4,5501,7 944,36 706
+Bangladesh,50,5501,39 507,160 505
+Bhutan,64,5501,185,750
+India,356,5501,389 125,1 345 402
+Iran (Islamic Republic of),364,5501,17 952,81 240
+Maldives,462,5501,76,502
+Nepal,524,5501,8 828,27 959
+Pakistan,586,5501,38 586,210 108
+Sri Lanka,144,5501,8 269,21 170
+EASTERN AND SOUTH-EASTERN ASIA,1832,1828,880 896,2 314 153
+Eastern Asia,906,1832,707 684,1 662 460
+China,156,906,580 665,1 423 779
+"China, Hong Kong SAR",344,906,2 158,7 340
+"China, Macao SAR",446,906,199,626
+"China, Taiwan Province of China",158,906,8 245,23 695
+Dem. People's Republic of Korea,408,906,10 155,25 486
+Japan,392,906,85 526,127 298
+Mongolia,496,906,809,3 140
+Republic of Korea,410,906,19 928,51 095
+South-Eastern Asia,920,1832,173 212,651 694
+Brunei Darussalam,96,920,54,426
+Cambodia,116,920,4 665,16 125
+Indonesia,360,920,72 395,266 068
+Lao People's Democratic Republic,418,920,1 765,7 008
+Malaysia,458,920,6 461,31 317
+Myanmar,104,920,18 456,53 545
+Philippines,608,920,19 971,105 883
+Singapore,702,920,1 125,5 728
+Thailand,764,920,21 862,69 292
+Timor-Leste,626,920,424,1 256
+Viet Nam,704,920,26 034,95 044
+LATIN AMERICA AND THE CARIBBEAN,1830,1828,178 075,639 102
+Caribbean,915,1830,17 722,43 081
+Anguilla,660,915,5,15
+Antigua and Barbuda,28,915,47,96
+Aruba,533,915,39,106
+Bahamas,44,915,82,384
+Barbados,52,915,219,286
+"Bonaire, Sint Eustatius and Saba",535,915,7,25
+British Virgin Islands,92,915,8,30
+Cayman Islands,136,915,6,64
+Cuba,192,915,6 175,11 333
+Curaçao,531,915,108,162
+Dominica,212,915,52,72
+Dominican Republic,214,915,2 522,10 568
+Grenada,308,915,78,111
+Guadeloupe,312,915,219,400
+Haiti,332,915,3 333,11 051
+Jamaica,388,915,1 465,2 927
+Martinique,474,915,229,376
+Montserrat,500,915,14,5
+Puerto Rico,630,915,2 193,3 110
+Saint Barthélemy,652,915,2,10
+Saint Kitts and Nevis,659,915,47,52
+Saint Lucia,662,915,85,181
+Saint Martin (French part),663,915,3,37
+Saint Vincent and the Grenadines,670,915,69,110
+Sint Maarten (Dutch part),534,915,2,42
+Trinidad and Tobago,780,915,678,1 386
+Turks and Caicos Islands,796,915,5,37
+United States Virgin Islands,850,915,28,105
+Central America,916,1830,40 220,174 359
+Belize,84,916,73,379
+Costa Rica,188,916,1 006,4 973
+El Salvador,222,916,2 285,6 405
+Guatemala,320,916,3 314,17 083
+Honduras,340,916,1 633,9 508
+Mexico,484,916,29 628,125 445
+Nicaragua,558,916,1 375,6 425
+Panama,591,916,906,4 142
+South America,931,1830,120 133,421 662
+Argentina,32,931,17 742,44 143
+Bolivia (Plurinational State of),68,931,3 174,11 272
+Brazil,76,931,57 323,208 591
+Chile,152,931,6 876,18 574
+Colombia,170,931,12 656,49 248
+Ecuador,218,931,3 658,16 932
+Falkland Islands (Malvinas),238,931,2,3
+French Guiana,254,931,27,279
+Guyana,328,931,434,777
+Paraguay,600,931,1 552,6 911
+Peru,604,931,8 193,31 719
+Suriname,740,931,229,573
+Uruguay,858,931,2 288,3 443
+Venezuela (Bolivarian Republic of),862,931,5 978,29 196
+AUSTRALIA/NEW ZEALAND,927,1828,10 580,29 451
+Australia,36,927,8 585,24 730
+New Zealand,554,927,1 995,4 721
+OCEANIA (EXCLUDING AUSTRALIA AND NEW ZEALAND),1835,1828,2 960,11 829
+Melanesia,928,1835,2 544,10 618
+Fiji,242,928,306,881
+New Caledonia,540,928,65,278
+Papua New Guinea,598,928,2 028,8 525
+Solomon Islands,90,928,94,645
+Vanuatu,548,928,50,289
+Micronesia,954,1835,162,536
+Guam,316,954,61,165
+Kiribati,296,954,34,115
+Marshall Islands,584,954,13,58
+Micronesia (Fed. States of),583,954,34,112
+Nauru,520,954,4,11
+Northern Mariana Islands,580,954,7,57
+Palau,585,954,8,18
+Polynesia,957,1835,255,675
+American Samoa,16,957,19,56
+Cook Islands,184,957,16,18
+French Polynesia,258,957,64,277
+Niue,570,957,5,2
+Samoa,882,957,87,196
+Tokelau,772,957,2,1
+Tonga,776,957,51,103
+Tuvalu,798,957,5,11
+Wallis and Futuna Islands,876,957,7,12
+EUROPE AND NORTHERN AMERICA,1829,1828,737 972,1 108 708
+EUROPE,917,1829,559 920,745 663
+Eastern Europe,923,917,226 752,293 825
+Belarus,112,923,7 701,9 448
+Bulgaria,100,923,7 373,7 076
+Czechia,203,923,9 103,10 654
+Hungary,348,923,9 576,9 719
+Poland,616,923,25 779,37 939
+Republic of Moldova,498,923,2 440,4 054
+Romania,642,923,16 753,19 581
+Russian Federation,643,923,106 067,145 555
+Slovakia,703,923,3 588,5 449
+Ukraine,804,923,38 372,44 349
+Northern Europe,924,917,78 499,104 927
+Channel Islands,830,924,104,170
+Denmark,208,924,4 343,5 741
+Estonia,233,924,1 125,1 321
+Faroe Islands,234,924,32,48
+Finland,246,924,4 098,5 514
+Iceland,352,924,148,336
+Ireland,372,924,2 905,4 790
+Isle of Man,833,924,55,84
+Latvia,428,924,1 950,1 941
+Lithuania,440,924,2 583,2 825
+Norway,578,924,3 333,5 314
+Sweden,752,924,7 121,9 936
+United Kingdom,826,924,50 702,66 907
+Southern Europe,925,917,110 602,152 683
+Albania,8,925,1 320,2 884
+Andorra,20,925,7,77
+Bosnia and Herzegovina,70,925,2 767,3 345
+Croatia,191,925,3 923,4 169
+Gibraltar,292,925,22,34
+Greece,300,925,7 811,10 544
+Holy See,336,925,1,1
+Italy,380,925,47 358,60 592
+Malta,470,925,313,438
+Montenegro,499,925,412,628
+North Macedonia,807,925,1 317,2 082
+Portugal,620,925,8 471,10 277
+San Marino,674,925,13,34
+Serbia,688,925,6 953,8 812
+Slovenia,705,925,1 493,2 076
+Spain,724,925,28 421,46 690
+Western Europe,926,917,144 067,194 229
+Austria,40,926,6 935,8 850
+Belgium,56,926,8 732,11 446
+France,250,926,42 372,64 893
+Germany,276,926,70 610,82 844
+Liechtenstein,438,926,14,38
+Luxembourg,442,926,300,597
+Monaco,492,926,19,39
+Netherlands,528,926,10 302,17 039
+Switzerland,756,926,4 783,8 484
+NORTHERN AMERICA,918,1829,178 052,363 044
+Bermuda,60,918,39,63
+Canada,124,918,14 468,36 895
+Greenland,304,918,24,57
+Saint Pierre and Miquelon,666,918,5,6
+United States of America,840,918,163 518,326 024
